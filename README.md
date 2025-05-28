@@ -1,7 +1,7 @@
 # Bryantllangllang_🌐 Hot Beans Web – Client Website Solution
 ## 🧾 Project Overview
 
-This project is a **professional website created for Hot Beans Web**, a fictional web development company. It was developed by students at **Stanmore College** as part of their BTEC Level 1 and Level 3 IT coursework to simulate real-world web design and client communication.
+This project is a **professional website created for Hot Beans Web**, a fictional web development company. It was developed by **Bryant Llang Llang** at **Stanmore College** as part of his BTEC Level 3 IT coursework to simulate real-world web design and client communication.
 
 The purpose of the website is to **attract new junior developers** to join the Hot Beans Web team and to **showcase the company’s services, values, and portfolio**.
 
@@ -54,7 +54,24 @@ The purpose of the website is to **attract new junior developers** to join the H
 
 ## 📸 Screenshots
 
-_(Add screenshots of the site’s homepage, contact page, etc. here once available)_
+### 🏠 Company Profile
+![Company Profile Screenshot](assets/index.png)
+
+### 📞 Contact Page
+![Contact Page Screenshot](assets/contact.png)
+
+### 👥 Trainee Profile
+![Trainee Profile Page Screenshot](assets/trainee.png)
+
+### 📞 Job Specification Page
+![Job Specification Page Screenshot](assets/jobspec.png)
+
+### 👥 Application Form page
+![Application Form Page Screenshot](assets/application.png)
+
+### 📞 Courses Page
+![Courses Page Screenshot](assets/courses.png)
+
 
 ---
 
